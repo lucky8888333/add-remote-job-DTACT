@@ -219,7 +219,7 @@ Name | Website | Region
 [DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
 [Dropbox](/company-profiles/dropbox.md) | https://www.dropbox.com/ | Worldwide
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
-[DTACT](/COMPANY-PROFILES-DTACT.md) | https://dtact.com/ | Worldwide
+[DTACT](/COMPANY-PROFILES-DTACT.md). | https://dtact.com/ | Worldwide
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
 [EarthOfDrones](/company-profiles/earthofdrones.md) | https://earthofdrones.com/ | Worldwide
