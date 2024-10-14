@@ -1,52 +1,32 @@
-# Example Company
+# DTACT
 
 ## Company blurb
 
-Insert a little bit about your company here.
+Reshaping data management through innovative, agnostic, and scalable solutions
+
+Our goal is to empower organizations with modular, interoperable data products that decentralize data architectures, enrich data automatically, and accelerate decision-making.
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+We are a team consisting of 20-50 members, and rapidly growing.
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+DTACT has embraced a fully remote work culture from the start, allowing us to hire the best talent, regardless of their location. This flexibility enables us to scale quickly and adapt to the dynamic needs of the cybersecurity landscape. We understand the unique challenges of remote work and prioritize regular virtual meetups, efficient communication, and providing our employees with the support and tools they need to succeed, no matter where they are. We are committed to fostering a strong, connected remote team.
 
 ## Region
 
-Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**.
-
-See the [UN Statistical Division's country codes](https://unstats.un.org/unsd/methodology/m49/) for a list of accepted countries.
-
-The list of accepted regions is based on the UN Statistical Division's region codes, on the same page:
-
-* Africa
-* Asia
-* Caribbean
-* Europe
-* Latin America
-* North America
-* Oceania (*this includes Australia*)
-
-### Example region 1
-USA
-
-### Example region 2
-North America, Latin America, Caribbean
-
-Below the country/region list you can have more text, if you want.  Use this to explain timezone, travel, or other restrictions based on your company's location.
-
-### Example region 3
-Worldwide
+*Worldwide.* We have a global team with employees spanning continents, from North America to Europe, Asia, and Africa. Our workforce is diverse, with some team members working from their home countries while others travel or work nomadically. No matter where they are located, we stay connected and committed to delivering top-quality results across the globe.
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Raven is a highly reliable solution used across various sectors, from cybersecurity to water resource management, and from military operations to healthcare services.
 
 ## Office locations
 
-Insert your physical office locations here, if you have any.
+None; or everywhere!
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+You may visit our Career page: https://dtact.com/about/#careers
+or visit our LinkedIn page: DTACT for the latest job openings.
